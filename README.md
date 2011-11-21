@@ -13,7 +13,7 @@ Rules of #Risucraft
 10. If you're stupid, go be stupid somewhere else.
 11. Don't bug people about updating their mods.
 12. No ref-links are allowed here.
-13. Off topic discussion is okay, so long as it does not stop on topic discussion. If someone is trying to discuss on topic, you will be quieted if you keep trying to talk offtopic.
+13. Off topic discussion is okay, so long as it does not stop ontopic discussion. If someone is trying to discuss on topic, you will be quieted if you keep trying to talk offtopic.
 14. Abusing a bot (botabuse) will result in a kick.
 15. If you spam or use stupid or overused memes, you will be quieted. If you continue, you will be kicked.
 16. If you ping the ops for an emergency, give them a damn reason and a name, or you will get kicked. We don't all have the time to read through a hundred lines searching for the one line you pinged us about.
