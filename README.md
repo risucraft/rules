@@ -19,7 +19,7 @@ Rules of #Risucraft
 16. If you ping the ops for an emergency, give them a damn reason and a name, or you will get kicked. We don't all have the time to read through a hundred lines searching for the one line you pinged us about.
 17. If you're a furry/brony/whatever, okay, we don't care. Just don't be an obnoxious fuck and rub it in everybody's face. If people start raging at you, you and them will be quieted. If it repeats, punishment will get worse.
 18. Don't anger the Fusurugi.
-
+19. Pooping while on irc is crappy, don't do it
 
 Other important information
 ---------------------------
