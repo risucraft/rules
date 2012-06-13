@@ -20,6 +20,7 @@ Rules of #Risucraft
 17. If you're a furry/brony/whatever, okay, we don't care. Just don't be an obnoxious fuck and rub it in everybody's face. If people start raging at you, you and them will be quieted. If it repeats, punishment will get worse.
 18. Don't anger the Fusurugi.
 19. Pooping while on irc is crappy, don't do it
+20. Please do not link shock sites without warning in the channel. This includes screamers, gore, explict imagery (Porn etc), and other memes designed to scare or startle people. We will warn you for this: But if you continue we will ban you.
 
 Other important information
 ---------------------------
